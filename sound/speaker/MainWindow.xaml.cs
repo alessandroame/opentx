@@ -31,6 +31,8 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Speech.Synthesis;
 using System.Speech.AudioFormat;
+using Newtonsoft.Json;
+using OpenTXspeaker;
 
 namespace OpenTXspeak
 {
@@ -81,8 +83,14 @@ namespace OpenTXspeak
 
             try
             {
-                system_strings = System.IO.File.ReadAllLines(@"SOUNDS\" + curLang.sName + @"\SYSTEM\system_sounds.txt");
-                other_strings = System.IO.File.ReadAllLines(@"SOUNDS\" + curLang.sName + @"\other_sounds.txt");
+                //system_strings = System.IO.File.ReadAllLines(@"SOUNDS\" + curLang.sName + @"\SYSTEM\system_sounds.txt");
+                //other_strings = System.IO.File.ReadAllLines(@"SOUNDS\" + curLang.sName + @"\other_sounds.txt");
+                var soundDef = JsonConvert.DeserializeObject<SoundsDefinition>(File.ReadAllText("sounds.json"));
+                system_strings = soundDef.SystemSounds
+                    .Select(s => $"{s.Values[1].Substring(0, s.Values[1].Length - 4)};{s.Values[0]};{s.Values[0]}").ToArray();
+                other_strings= soundDef.Sounds
+                    .Select(s => $"{s.Values[1].Substring(0, s.Values[1].Length - 4)};{s.Values[0]};{s.Values[0]}").ToArray();
+
             }
             catch (IOException)
             {

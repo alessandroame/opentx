@@ -1,0 +1,1102 @@
+﻿{
+  "systemSounds": [
+    [
+      "0",
+      "0000.wav"
+    ],
+    [
+      "1",
+      "0001.wav"
+    ],
+    [
+      "2",
+      "0002.wav"
+    ],
+    [
+      "3",
+      "0003.wav"
+    ],
+    [
+      "4",
+      "0004.wav"
+    ],
+    [
+      "5",
+      "0005.wav"
+    ],
+    [
+      "6",
+      "0006.wav"
+    ],
+    [
+      "7",
+      "0007.wav"
+    ],
+    [
+      "8",
+      "0008.wav"
+    ],
+    [
+      "9",
+      "0009.wav"
+    ],
+    [
+      "10",
+      "0010.wav"
+    ],
+    [
+      "11",
+      "0011.wav"
+    ],
+    [
+      "12",
+      "0012.wav"
+    ],
+    [
+      "13",
+      "0013.wav"
+    ],
+    [
+      "14",
+      "0014.wav"
+    ],
+    [
+      "15",
+      "0015.wav"
+    ],
+    [
+      "16",
+      "0016.wav"
+    ],
+    [
+      "17",
+      "0017.wav"
+    ],
+    [
+      "18",
+      "0018.wav"
+    ],
+    [
+      "19",
+      "0019.wav"
+    ],
+    [
+      "20",
+      "0020.wav"
+    ],
+    [
+      "21",
+      "0021.wav"
+    ],
+    [
+      "22",
+      "0022.wav"
+    ],
+    [
+      "23",
+      "0023.wav"
+    ],
+    [
+      "24",
+      "0024.wav"
+    ],
+    [
+      "25",
+      "0025.wav"
+    ],
+    [
+      "26",
+      "0026.wav"
+    ],
+    [
+      "27",
+      "0027.wav"
+    ],
+    [
+      "28",
+      "0028.wav"
+    ],
+    [
+      "29",
+      "0029.wav"
+    ],
+    [
+      "30",
+      "0030.wav"
+    ],
+    [
+      "31",
+      "0031.wav"
+    ],
+    [
+      "32",
+      "0032.wav"
+    ],
+    [
+      "33",
+      "0033.wav"
+    ],
+    [
+      "34",
+      "0034.wav"
+    ],
+    [
+      "35",
+      "0035.wav"
+    ],
+    [
+      "36",
+      "0036.wav"
+    ],
+    [
+      "37",
+      "0037.wav"
+    ],
+    [
+      "38",
+      "0038.wav"
+    ],
+    [
+      "39",
+      "0039.wav"
+    ],
+    [
+      "40",
+      "0040.wav"
+    ],
+    [
+      "41",
+      "0041.wav"
+    ],
+    [
+      "42",
+      "0042.wav"
+    ],
+    [
+      "43",
+      "0043.wav"
+    ],
+    [
+      "44",
+      "0044.wav"
+    ],
+    [
+      "45",
+      "0045.wav"
+    ],
+    [
+      "46",
+      "0046.wav"
+    ],
+    [
+      "47",
+      "0047.wav"
+    ],
+    [
+      "48",
+      "0048.wav"
+    ],
+    [
+      "49",
+      "0049.wav"
+    ],
+    [
+      "50",
+      "0050.wav"
+    ],
+    [
+      "51",
+      "0051.wav"
+    ],
+    [
+      "52",
+      "0052.wav"
+    ],
+    [
+      "53",
+      "0053.wav"
+    ],
+    [
+      "54",
+      "0054.wav"
+    ],
+    [
+      "55",
+      "0055.wav"
+    ],
+    [
+      "56",
+      "0056.wav"
+    ],
+    [
+      "57",
+      "0057.wav"
+    ],
+    [
+      "58",
+      "0058.wav"
+    ],
+    [
+      "59",
+      "0059.wav"
+    ],
+    [
+      "60",
+      "0060.wav"
+    ],
+    [
+      "61",
+      "0061.wav"
+    ],
+    [
+      "62",
+      "0062.wav"
+    ],
+    [
+      "63",
+      "0063.wav"
+    ],
+    [
+      "64",
+      "0064.wav"
+    ],
+    [
+      "65",
+      "0065.wav"
+    ],
+    [
+      "66",
+      "0066.wav"
+    ],
+    [
+      "67",
+      "0067.wav"
+    ],
+    [
+      "68",
+      "0068.wav"
+    ],
+    [
+      "69",
+      "0069.wav"
+    ],
+    [
+      "70",
+      "0070.wav"
+    ],
+    [
+      "71",
+      "0071.wav"
+    ],
+    [
+      "72",
+      "0072.wav"
+    ],
+    [
+      "73",
+      "0073.wav"
+    ],
+    [
+      "74",
+      "0074.wav"
+    ],
+    [
+      "75",
+      "0075.wav"
+    ],
+    [
+      "76",
+      "0076.wav"
+    ],
+    [
+      "77",
+      "0077.wav"
+    ],
+    [
+      "78",
+      "0078.wav"
+    ],
+    [
+      "79",
+      "0079.wav"
+    ],
+    [
+      "80",
+      "0080.wav"
+    ],
+    [
+      "81",
+      "0081.wav"
+    ],
+    [
+      "82",
+      "0082.wav"
+    ],
+    [
+      "83",
+      "0083.wav"
+    ],
+    [
+      "84",
+      "0084.wav"
+    ],
+    [
+      "85",
+      "0085.wav"
+    ],
+    [
+      "86",
+      "0086.wav"
+    ],
+    [
+      "87",
+      "0087.wav"
+    ],
+    [
+      "88",
+      "0088.wav"
+    ],
+    [
+      "89",
+      "0089.wav"
+    ],
+    [
+      "90",
+      "0090.wav"
+    ],
+    [
+      "91",
+      "0091.wav"
+    ],
+    [
+      "92",
+      "0092.wav"
+    ],
+    [
+      "93",
+      "0093.wav"
+    ],
+    [
+      "94",
+      "0094.wav"
+    ],
+    [
+      "95",
+      "0095.wav"
+    ],
+    [
+      "96",
+      "0096.wav"
+    ],
+    [
+      "97",
+      "0097.wav"
+    ],
+    [
+      "98",
+      "0098.wav"
+    ],
+    [
+      "99",
+      "0099.wav"
+    ],
+    [
+      "100",
+      "0100.wav"
+    ],
+    [
+      "200",
+      "0101.wav"
+    ],
+    [
+      "300",
+      "0102.wav"
+    ],
+    [
+      "400",
+      "0103.wav"
+    ],
+    [
+      "500",
+      "0104.wav"
+    ],
+    [
+      "600",
+      "0105.wav"
+    ],
+    [
+      "700",
+      "0106.wav"
+    ],
+    [
+      "800",
+      "0107.wav"
+    ],
+    [
+      "900",
+      "0108.wav"
+    ],
+    [
+      "thousand",
+      "0109.wav"
+    ],
+    [
+      "and",
+      "0110.wav"
+    ],
+    [
+      "minus",
+      "0111.wav"
+    ],
+    [
+      "point",
+      "0112.wav"
+    ],
+    [
+      "volt",
+      "volt0.wav"
+    ],
+    [
+      "volts",
+      "volt1.wav"
+    ],
+    [
+      "amp",
+      "amp0.wav"
+    ],
+    [
+      "amps",
+      "amp1.wav"
+    ],
+    [
+      "milliamp",
+      "mamp0.wav"
+    ],
+    [
+      "milliamps",
+      "mamp1.wav"
+    ],
+    [
+      "knot",
+      "knot0.wav"
+    ],
+    [
+      "knots",
+      "knot1.wav"
+    ],
+    [
+      "meter per second",
+      "mps0.wav"
+    ],
+    [
+      "meters per second",
+      "mps1.wav"
+    ],
+    [
+      "foot per second",
+      "fps0.wav"
+    ],
+    [
+      "feet per second",
+      "fps1.wav"
+    ],
+    [
+      "kilometer per hour",
+      "kph0.wav"
+    ],
+    [
+      "kilometers per hour",
+      "kph1.wav"
+    ],
+    [
+      "mile per hour",
+      "mph0.wav"
+    ],
+    [
+      "miles per hour",
+      "mph1.wav"
+    ],
+    [
+      "meter",
+      "meter0.wav"
+    ],
+    [
+      "meters",
+      "meter1.wav"
+    ],
+    [
+      "foot",
+      "foot0.wav"
+    ],
+    [
+      "feet",
+      "foot1.wav"
+    ],
+    [
+      "degree celsius",
+      "celsius0.wav"
+    ],
+    [
+      "degrees celsius",
+      "celsius1.wav"
+    ],
+    [
+      "degree fahrenheit",
+      "fahr0.wav"
+    ],
+    [
+      "degrees fahrenheit",
+      "fahr1.wav"
+    ],
+    [
+      "percent",
+      "percent0.wav"
+    ],
+    [
+      "percent",
+      "percent1.wav"
+    ],
+    [
+      "milliamp-hour",
+      "mamph0.wav"
+    ],
+    [
+      "milliamp-hours",
+      "mamph1.wav"
+    ],
+    [
+      "watt",
+      "watt0.wav"
+    ],
+    [
+      "watts",
+      "watt1.wav"
+    ],
+    [
+      "milli-watt",
+      "mwatt0.wav"
+    ],
+    [
+      "milli-watts",
+      "mwatt1.wav"
+    ],
+    [
+      "D B",
+      "db0.wav"
+    ],
+    [
+      "D B",
+      "db1.wav"
+    ],
+    [
+      "r p m",
+      "rpm0.wav"
+    ],
+    [
+      "r p m",
+      "rpm1.wav"
+    ],
+    [
+      "g",
+      "g0.wav"
+    ],
+    [
+      "g",
+      "g1.wav"
+    ],
+    [
+      "degree",
+      "degree0.wav"
+    ],
+    [
+      "degrees",
+      "degree1.wav"
+    ],
+    [
+      "radian",
+      "rad0.wav"
+    ],
+    [
+      "radians",
+      "rad1.wav"
+    ],
+    [
+      "milliliter",
+      "ml0.wav"
+    ],
+    [
+      "milliliters",
+      "ml1.wav"
+    ],
+    [
+      "fluid ounce",
+      "founce0.wav"
+    ],
+    [
+      "fluid ounces",
+      "founce1.wav"
+    ],
+    [
+      "milliliter per minute",
+      "mlpm0.wav"
+    ],
+    [
+      "milliliters per minute",
+      "mlpm1.wav"
+    ],
+    [
+      "hertz",
+      "hertz0.wav"
+    ],
+    [
+      "hertz",
+      "hertz1.wav"
+    ],
+    [
+      "milisecond",
+      "ms0.wav"
+    ],
+    [
+      "miliseconds",
+      "ms1.wav"
+    ],
+    [
+      "microsecond",
+      "us0.wav"
+    ],
+    [
+      "microseconds",
+      "us1.wav"
+    ],
+    [
+      "kilometer",
+      "km0.wav"
+    ],
+    [
+      "kilometers",
+      "km1.wav"
+    ],
+    [
+      "hour",
+      "hour0.wav"
+    ],
+    [
+      "hours",
+      "hour1.wav"
+    ],
+    [
+      "minute",
+      "minute0.wav"
+    ],
+    [
+      "minutes",
+      "minute1.wav"
+    ],
+    [
+      "second",
+      "second0.wav"
+    ],
+    [
+      "seconds",
+      "second1.wav"
+    ],
+    [
+      "point zero",
+      "0167.wav"
+    ],
+    [
+      "point one",
+      "0168.wav"
+    ],
+    [
+      "point two",
+      "0169.wav"
+    ],
+    [
+      "point three",
+      "0170.wav"
+    ],
+    [
+      "point four",
+      "0171.wav"
+    ],
+    [
+      "point five",
+      "0172.wav"
+    ],
+    [
+      "point six",
+      "0173.wav"
+    ],
+    [
+      "point seven",
+      "0174.wav"
+    ],
+    [
+      "point eight",
+      "0175.wav"
+    ],
+    [
+      "point nine",
+      "0176.wav"
+    ],
+    [
+      "trim center",
+      "midtrim.wav"
+    ],
+    [
+      "maximum trim reached",
+      "maxtrim.wav"
+    ],
+    [
+      "minimum trim reached",
+      "mintrim.wav"
+    ],
+    [
+      "timer 1 elapsed",
+      "timovr1.wav"
+    ],
+    [
+      "timer 2 elapsed",
+      "timovr2.wav"
+    ],
+    [
+      "timer 3 elapsed",
+      "timovr3.wav"
+    ],
+    [
+      "transmitter battery low",
+      "lowbatt.wav"
+    ],
+    [
+      "inactivity alarm",
+      "inactiv.wav"
+    ],
+    [
+      "throttle warning",
+      "thralert.wav"
+    ],
+    [
+      "switch warning",
+      "swalert.wav"
+    ],
+    [
+      "bad eeprom",
+      "eebad.wav"
+    ],
+    [
+      "Welcome to open tea ex!",
+      "hello.wav"
+    ],
+    [
+      "RF signal, low",
+      "rssi_org.wav"
+    ],
+    [
+      "RF signal, critical",
+      "rssi_red.wav"
+    ],
+    [
+      "radio antenna defective",
+      "swr_red.wav"
+    ],
+    [
+      "telemetry lost",
+      "telemko.wav"
+    ],
+    [
+      "telemetry recovered",
+      "telemok.wav"
+    ],
+    [
+      "trainer signal lost",
+      "trainko.wav"
+    ],
+    [
+      "trainer signal recovered",
+      "trainok.wav"
+    ],
+    [
+      "sensor lost",
+      "sensorko.wav"
+    ],
+    [
+      "servo overload",
+      "servoko.wav"
+    ],
+    [
+      "power overload",
+      "rxko.wav"
+    ],
+    [
+      "receiver still connected",
+      "modelpwr.wav"
+    ],
+    [
+      "aileron trim",
+      "aileron_trim.wav"
+    ],
+    [
+      "elevator trim",
+      "elevator_trim.wav"
+    ],
+    [
+      "throttle trim",
+      "throttle_trim.wav"
+    ],
+    [
+      "rudder trim",
+      "rudder_trim.wav"
+    ],
+    [
+      "main page",
+      "main_page.wav"
+    ],
+    [
+      "category enabled",
+      "category_enabled.wav"
+    ],
+    [
+      "category disabled",
+      "category_disabled.wav"
+    ]
+  ],
+  "sounds": [
+    [
+      "armed",
+      "armed.wav"
+    ],
+    [
+      "disarmed",
+      "disarm.wav"
+    ],
+    [
+      "throttle  cut",
+      "thrcut.wav"
+    ],
+    [
+      "throttle  active",
+      "thract.wav"
+    ],
+    [
+      "gear!, up!",
+      "gearup.wav"
+    ],
+    [
+      "gear!, down!",
+      "geardn.wav"
+    ],
+    [
+      "flaps!, up!",
+      "flapup.wav"
+    ],
+    [
+      "flaps!, down!",
+      "flapdn.wav"
+    ],
+    [
+      "spoiler!, up!",
+      "splrup.wav"
+    ],
+    [
+      "spoiler!, down!",
+      "splrdn.wav"
+    ],
+    [
+      "trainer!, on!",
+      "trnon.wav"
+    ],
+    [
+      "trainer!, off!",
+      "trnoff.wav"
+    ],
+    [
+      "engine!, off!",
+      "engoff.wav"
+    ],
+    [
+      "too. high!",
+      "tohigh.wav"
+    ],
+    [
+      "too. low!",
+      "tolow.wav"
+    ],
+    [
+      "low. battery!",
+      "lowbat.wav"
+    ],
+    [
+      "crow!, on!",
+      "crowon.wav"
+    ],
+    [
+      "crow!, off!",
+      "crowof.wav"
+    ],
+    [
+      "rf. signal!, low!",
+      "siglow.wav"
+    ],
+    [
+      "rf. signal!, critical!",
+      "sigcrt.wav"
+    ],
+    [
+      "LQ",
+      "lq.wav"
+    ],
+    [
+      "RF mode",
+      "rfmode.wav"
+    ],
+    [
+      "high. speed. mode!, active",
+      "spdmod.wav"
+    ],
+    [
+      "thermal. mode!, on",
+      "thmmod.wav"
+    ],
+    [
+      "normal. mode!, on",
+      "nrmmod.wav"
+    ],
+    [
+      "landing. mode!, on",
+      "lnding.wav"
+    ],
+    [
+      "acro. mode!, on",
+      "acro.wav"
+    ],
+    [
+      "flight mode one",
+      "fm-1.wav"
+    ],
+    [
+      "flight mode two",
+      "fm-2.wav"
+    ],
+    [
+      "flight mode three",
+      "fm-3.wav"
+    ],
+    [
+      "flight mode four",
+      "fm-4.wav"
+    ],
+    [
+      "flight mode five",
+      "fm-5.wav"
+    ],
+    [
+      "flight mode six",
+      "fm-6.wav"
+    ],
+    [
+      "flight mode seven",
+      "fm-7.wav"
+    ],
+    [
+      "flight mode eight",
+      "fm-8.wav"
+    ],
+    [
+      "vario!, on",
+      "vrion.wav"
+    ],
+    [
+      "vario!, off",
+      "vrioff.wav"
+    ],
+    [
+      "flight mode power",
+      "fm-pwr.wav"
+    ],
+    [
+      "flight mode land",
+      "fm-lnd.wav"
+    ],
+    [
+      "flight mode float",
+      "fm-flt.wav"
+    ],
+    [
+      "flight mode speed",
+      "fm-spd.wav"
+    ],
+    [
+      "flight mode fast",
+      "fm-fst.wav"
+    ],
+    [
+      "flight mode normal",
+      "fm-nrm.wav"
+    ],
+    [
+      "flight mode cruise",
+      "fm-crs.wav"
+    ],
+    [
+      "flight mode acro",
+      "fm-acr.wav"
+    ],
+    [
+      "flight mode race",
+      "fm-rce.wav"
+    ],
+    [
+      "flight mode launch",
+      "fm-lch.wav"
+    ],
+    [
+      "flight mode ping",
+      "fm-png.wav"
+    ],
+    [
+      "flight mode thermal",
+      "fm-thm.wav"
+    ],
+    [
+      "flight mode thermal left",
+      "fm-thl.wav"
+    ],
+    [
+      "flight mode thermal right",
+      "fm-thr.wav"
+    ],
+    [
+      "flight mode stabilize",
+      "fm-stb.wav"
+    ],
+    [
+      "flight mode horizon",
+      "fm-hor.wav"
+    ],
+    [
+      "flight mode angle",
+      "fm-ang.wav"
+    ],
+    [
+      "flight mode idle up 1",
+      "fm-id1.wav"
+    ],
+    [
+      "flight mode idle up 2",
+      "fm-id2.wav"
+    ],
+    [
+      "low rate",
+      "ratlow.wav"
+    ],
+    [
+      "medium rate",
+      "ratmed.wav"
+    ],
+    [
+      "high rate",
+      "rathi.wav"
+    ]
+  ]
+}
