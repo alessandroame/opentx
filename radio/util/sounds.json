@@ -1,0 +1,1102 @@
+{
+    "systemSounds": [
+        {
+            "id": "0000.wav",
+            "speech": "0"
+        },
+        {
+            "id": "0001.wav",
+            "speech": "1"
+        },
+        {
+            "id": "0002.wav",
+            "speech": "2"
+        },
+        {
+            "id": "0003.wav",
+            "speech": "3"
+        },
+        {
+            "id": "0004.wav",
+            "speech": "4"
+        },
+        {
+            "id": "0005.wav",
+            "speech": "5"
+        },
+        {
+            "id": "0006.wav",
+            "speech": "6"
+        },
+        {
+            "id": "0007.wav",
+            "speech": "7"
+        },
+        {
+            "id": "0008.wav",
+            "speech": "8"
+        },
+        {
+            "id": "0009.wav",
+            "speech": "9"
+        },
+        {
+            "id": "0010.wav",
+            "speech": "10"
+        },
+        {
+            "id": "0011.wav",
+            "speech": "11"
+        },
+        {
+            "id": "0012.wav",
+            "speech": "12"
+        },
+        {
+            "id": "0013.wav",
+            "speech": "13"
+        },
+        {
+            "id": "0014.wav",
+            "speech": "14"
+        },
+        {
+            "id": "0015.wav",
+            "speech": "15"
+        },
+        {
+            "id": "0016.wav",
+            "speech": "16"
+        },
+        {
+            "id": "0017.wav",
+            "speech": "17"
+        },
+        {
+            "id": "0018.wav",
+            "speech": "18"
+        },
+        {
+            "id": "0019.wav",
+            "speech": "19"
+        },
+        {
+            "id": "0020.wav",
+            "speech": "20"
+        },
+        {
+            "id": "0021.wav",
+            "speech": "21"
+        },
+        {
+            "id": "0022.wav",
+            "speech": "22"
+        },
+        {
+            "id": "0023.wav",
+            "speech": "23"
+        },
+        {
+            "id": "0024.wav",
+            "speech": "24"
+        },
+        {
+            "id": "0025.wav",
+            "speech": "25"
+        },
+        {
+            "id": "0026.wav",
+            "speech": "26"
+        },
+        {
+            "id": "0027.wav",
+            "speech": "27"
+        },
+        {
+            "id": "0028.wav",
+            "speech": "28"
+        },
+        {
+            "id": "0029.wav",
+            "speech": "29"
+        },
+        {
+            "id": "0030.wav",
+            "speech": "30"
+        },
+        {
+            "id": "0031.wav",
+            "speech": "31"
+        },
+        {
+            "id": "0032.wav",
+            "speech": "32"
+        },
+        {
+            "id": "0033.wav",
+            "speech": "33"
+        },
+        {
+            "id": "0034.wav",
+            "speech": "34"
+        },
+        {
+            "id": "0035.wav",
+            "speech": "35"
+        },
+        {
+            "id": "0036.wav",
+            "speech": "36"
+        },
+        {
+            "id": "0037.wav",
+            "speech": "37"
+        },
+        {
+            "id": "0038.wav",
+            "speech": "38"
+        },
+        {
+            "id": "0039.wav",
+            "speech": "39"
+        },
+        {
+            "id": "0040.wav",
+            "speech": "40"
+        },
+        {
+            "id": "0041.wav",
+            "speech": "41"
+        },
+        {
+            "id": "0042.wav",
+            "speech": "42"
+        },
+        {
+            "id": "0043.wav",
+            "speech": "43"
+        },
+        {
+            "id": "0044.wav",
+            "speech": "44"
+        },
+        {
+            "id": "0045.wav",
+            "speech": "45"
+        },
+        {
+            "id": "0046.wav",
+            "speech": "46"
+        },
+        {
+            "id": "0047.wav",
+            "speech": "47"
+        },
+        {
+            "id": "0048.wav",
+            "speech": "48"
+        },
+        {
+            "id": "0049.wav",
+            "speech": "49"
+        },
+        {
+            "id": "0050.wav",
+            "speech": "50"
+        },
+        {
+            "id": "0051.wav",
+            "speech": "51"
+        },
+        {
+            "id": "0052.wav",
+            "speech": "52"
+        },
+        {
+            "id": "0053.wav",
+            "speech": "53"
+        },
+        {
+            "id": "0054.wav",
+            "speech": "54"
+        },
+        {
+            "id": "0055.wav",
+            "speech": "55"
+        },
+        {
+            "id": "0056.wav",
+            "speech": "56"
+        },
+        {
+            "id": "0057.wav",
+            "speech": "57"
+        },
+        {
+            "id": "0058.wav",
+            "speech": "58"
+        },
+        {
+            "id": "0059.wav",
+            "speech": "59"
+        },
+        {
+            "id": "0060.wav",
+            "speech": "60"
+        },
+        {
+            "id": "0061.wav",
+            "speech": "61"
+        },
+        {
+            "id": "0062.wav",
+            "speech": "62"
+        },
+        {
+            "id": "0063.wav",
+            "speech": "63"
+        },
+        {
+            "id": "0064.wav",
+            "speech": "64"
+        },
+        {
+            "id": "0065.wav",
+            "speech": "65"
+        },
+        {
+            "id": "0066.wav",
+            "speech": "66"
+        },
+        {
+            "id": "0067.wav",
+            "speech": "67"
+        },
+        {
+            "id": "0068.wav",
+            "speech": "68"
+        },
+        {
+            "id": "0069.wav",
+            "speech": "69"
+        },
+        {
+            "id": "0070.wav",
+            "speech": "70"
+        },
+        {
+            "id": "0071.wav",
+            "speech": "71"
+        },
+        {
+            "id": "0072.wav",
+            "speech": "72"
+        },
+        {
+            "id": "0073.wav",
+            "speech": "73"
+        },
+        {
+            "id": "0074.wav",
+            "speech": "74"
+        },
+        {
+            "id": "0075.wav",
+            "speech": "75"
+        },
+        {
+            "id": "0076.wav",
+            "speech": "76"
+        },
+        {
+            "id": "0077.wav",
+            "speech": "77"
+        },
+        {
+            "id": "0078.wav",
+            "speech": "78"
+        },
+        {
+            "id": "0079.wav",
+            "speech": "79"
+        },
+        {
+            "id": "0080.wav",
+            "speech": "80"
+        },
+        {
+            "id": "0081.wav",
+            "speech": "81"
+        },
+        {
+            "id": "0082.wav",
+            "speech": "82"
+        },
+        {
+            "id": "0083.wav",
+            "speech": "83"
+        },
+        {
+            "id": "0084.wav",
+            "speech": "84"
+        },
+        {
+            "id": "0085.wav",
+            "speech": "85"
+        },
+        {
+            "id": "0086.wav",
+            "speech": "86"
+        },
+        {
+            "id": "0087.wav",
+            "speech": "87"
+        },
+        {
+            "id": "0088.wav",
+            "speech": "88"
+        },
+        {
+            "id": "0089.wav",
+            "speech": "89"
+        },
+        {
+            "id": "0090.wav",
+            "speech": "90"
+        },
+        {
+            "id": "0091.wav",
+            "speech": "91"
+        },
+        {
+            "id": "0092.wav",
+            "speech": "92"
+        },
+        {
+            "id": "0093.wav",
+            "speech": "93"
+        },
+        {
+            "id": "0094.wav",
+            "speech": "94"
+        },
+        {
+            "id": "0095.wav",
+            "speech": "95"
+        },
+        {
+            "id": "0096.wav",
+            "speech": "96"
+        },
+        {
+            "id": "0097.wav",
+            "speech": "97"
+        },
+        {
+            "id": "0098.wav",
+            "speech": "98"
+        },
+        {
+            "id": "0099.wav",
+            "speech": "99"
+        },
+        {
+            "id": "0100.wav",
+            "speech": "100"
+        },
+        {
+            "id": "0101.wav",
+            "speech": "200"
+        },
+        {
+            "id": "0102.wav",
+            "speech": "300"
+        },
+        {
+            "id": "0103.wav",
+            "speech": "400"
+        },
+        {
+            "id": "0104.wav",
+            "speech": "500"
+        },
+        {
+            "id": "0105.wav",
+            "speech": "600"
+        },
+        {
+            "id": "0106.wav",
+            "speech": "700"
+        },
+        {
+            "id": "0107.wav",
+            "speech": "800"
+        },
+        {
+            "id": "0108.wav",
+            "speech": "900"
+        },
+        {
+            "id": "0109.wav",
+            "speech": "thousand"
+        },
+        {
+            "id": "0110.wav",
+            "speech": "and"
+        },
+        {
+            "id": "0111.wav",
+            "speech": "minus"
+        },
+        {
+            "id": "0112.wav",
+            "speech": "point"
+        },
+        {
+            "id": "volt0.wav",
+            "speech": "volt"
+        },
+        {
+            "id": "volt1.wav",
+            "speech": "volts"
+        },
+        {
+            "id": "amp0.wav",
+            "speech": "amp"
+        },
+        {
+            "id": "amp1.wav",
+            "speech": "amps"
+        },
+        {
+            "id": "mamp0.wav",
+            "speech": "milliamp"
+        },
+        {
+            "id": "mamp1.wav",
+            "speech": "milliamps"
+        },
+        {
+            "id": "knot0.wav",
+            "speech": "knot"
+        },
+        {
+            "id": "knot1.wav",
+            "speech": "knots"
+        },
+        {
+            "id": "mps0.wav",
+            "speech": "meter per second"
+        },
+        {
+            "id": "mps1.wav",
+            "speech": "meters per second"
+        },
+        {
+            "id": "fps0.wav",
+            "speech": "foot per second"
+        },
+        {
+            "id": "fps1.wav",
+            "speech": "feet per second"
+        },
+        {
+            "id": "kph0.wav",
+            "speech": "kilometer per hour"
+        },
+        {
+            "id": "kph1.wav",
+            "speech": "kilometers per hour"
+        },
+        {
+            "id": "mph0.wav",
+            "speech": "mile per hour"
+        },
+        {
+            "id": "mph1.wav",
+            "speech": "miles per hour"
+        },
+        {
+            "id": "meter0.wav",
+            "speech": "meter"
+        },
+        {
+            "id": "meter1.wav",
+            "speech": "meters"
+        },
+        {
+            "id": "foot0.wav",
+            "speech": "foot"
+        },
+        {
+            "id": "foot1.wav",
+            "speech": "feet"
+        },
+        {
+            "id": "celsius0.wav",
+            "speech": "degree celsius"
+        },
+        {
+            "id": "celsius1.wav",
+            "speech": "degrees celsius"
+        },
+        {
+            "id": "fahr0.wav",
+            "speech": "degree fahrenheit"
+        },
+        {
+            "id": "fahr1.wav",
+            "speech": "degrees fahrenheit"
+        },
+        {
+            "id": "percent0.wav",
+            "speech": "percent"
+        },
+        {
+            "id": "percent1.wav",
+            "speech": "percent"
+        },
+        {
+            "id": "mamph0.wav",
+            "speech": "milliamp-hour"
+        },
+        {
+            "id": "mamph1.wav",
+            "speech": "milliamp-hours"
+        },
+        {
+            "id": "watt0.wav",
+            "speech": "watt"
+        },
+        {
+            "id": "watt1.wav",
+            "speech": "watts"
+        },
+        {
+            "id": "mwatt0.wav",
+            "speech": "milli-watt"
+        },
+        {
+            "id": "mwatt1.wav",
+            "speech": "milli-watts"
+        },
+        {
+            "id": "db0.wav",
+            "speech": "D B"
+        },
+        {
+            "id": "db1.wav",
+            "speech": "D B"
+        },
+        {
+            "id": "rpm0.wav",
+            "speech": "r p m"
+        },
+        {
+            "id": "rpm1.wav",
+            "speech": "r p m"
+        },
+        {
+            "id": "g0.wav",
+            "speech": "g"
+        },
+        {
+            "id": "g1.wav",
+            "speech": "g"
+        },
+        {
+            "id": "degree0.wav",
+            "speech": "degree"
+        },
+        {
+            "id": "degree1.wav",
+            "speech": "degrees"
+        },
+        {
+            "id": "rad0.wav",
+            "speech": "radian"
+        },
+        {
+            "id": "rad1.wav",
+            "speech": "radians"
+        },
+        {
+            "id": "ml0.wav",
+            "speech": "milliliter"
+        },
+        {
+            "id": "ml1.wav",
+            "speech": "milliliters"
+        },
+        {
+            "id": "founce0.wav",
+            "speech": "fluid ounce"
+        },
+        {
+            "id": "founce1.wav",
+            "speech": "fluid ounces"
+        },
+        {
+            "id": "mlpm0.wav",
+            "speech": "milliliter per minute"
+        },
+        {
+            "id": "mlpm1.wav",
+            "speech": "milliliters per minute"
+        },
+        {
+            "id": "hertz0.wav",
+            "speech": "hertz"
+        },
+        {
+            "id": "hertz1.wav",
+            "speech": "hertz"
+        },
+        {
+            "id": "ms0.wav",
+            "speech": "milisecond"
+        },
+        {
+            "id": "ms1.wav",
+            "speech": "miliseconds"
+        },
+        {
+            "id": "us0.wav",
+            "speech": "microsecond"
+        },
+        {
+            "id": "us1.wav",
+            "speech": "microseconds"
+        },
+        {
+            "id": "km0.wav",
+            "speech": "kilometer"
+        },
+        {
+            "id": "km1.wav",
+            "speech": "kilometers"
+        },
+        {
+            "id": "hour0.wav",
+            "speech": "hour"
+        },
+        {
+            "id": "hour1.wav",
+            "speech": "hours"
+        },
+        {
+            "id": "minute0.wav",
+            "speech": "minute"
+        },
+        {
+            "id": "minute1.wav",
+            "speech": "minutes"
+        },
+        {
+            "id": "second0.wav",
+            "speech": "second"
+        },
+        {
+            "id": "second1.wav",
+            "speech": "seconds"
+        },
+        {
+            "id": "0167.wav",
+            "speech": "point zero"
+        },
+        {
+            "id": "0168.wav",
+            "speech": "point one"
+        },
+        {
+            "id": "0169.wav",
+            "speech": "point two"
+        },
+        {
+            "id": "0170.wav",
+            "speech": "point three"
+        },
+        {
+            "id": "0171.wav",
+            "speech": "point four"
+        },
+        {
+            "id": "0172.wav",
+            "speech": "point five"
+        },
+        {
+            "id": "0173.wav",
+            "speech": "point six"
+        },
+        {
+            "id": "0174.wav",
+            "speech": "point seven"
+        },
+        {
+            "id": "0175.wav",
+            "speech": "point eight"
+        },
+        {
+            "id": "0176.wav",
+            "speech": "point nine"
+        },
+        {
+            "id": "midtrim.wav",
+            "speech": "trim center"
+        },
+        {
+            "id": "maxtrim.wav",
+            "speech": "maximum trim reached"
+        },
+        {
+            "id": "mintrim.wav",
+            "speech": "minimum trim reached"
+        },
+        {
+            "id": "timovr1.wav",
+            "speech": "timer 1 elapsed"
+        },
+        {
+            "id": "timovr2.wav",
+            "speech": "timer 2 elapsed"
+        },
+        {
+            "id": "timovr3.wav",
+            "speech": "timer 3 elapsed"
+        },
+        {
+            "id": "lowbatt.wav",
+            "speech": "transmitter battery low"
+        },
+        {
+            "id": "inactiv.wav",
+            "speech": "inactivity alarm"
+        },
+        {
+            "id": "thralert.wav",
+            "speech": "throttle warning"
+        },
+        {
+            "id": "swalert.wav",
+            "speech": "switch warning"
+        },
+        {
+            "id": "eebad.wav",
+            "speech": "bad eeprom"
+        },
+        {
+            "id": "hello.wav",
+            "speech": "Welcome to open tea ex!"
+        },
+        {
+            "id": "rssi_org.wav",
+            "speech": "RF signal, low"
+        },
+        {
+            "id": "rssi_red.wav",
+            "speech": "RF signal, critical"
+        },
+        {
+            "id": "swr_red.wav",
+            "speech": "radio antenna defective"
+        },
+        {
+            "id": "telemko.wav",
+            "speech": "telemetry lost"
+        },
+        {
+            "id": "telemok.wav",
+            "speech": "telemetry recovered"
+        },
+        {
+            "id": "trainko.wav",
+            "speech": "trainer signal lost"
+        },
+        {
+            "id": "trainok.wav",
+            "speech": "trainer signal recovered"
+        },
+        {
+            "id": "sensorko.wav",
+            "speech": "sensor lost"
+        },
+        {
+            "id": "servoko.wav",
+            "speech": "servo overload"
+        },
+        {
+            "id": "rxko.wav",
+            "speech": "power overload"
+        },
+        {
+            "id": "modelpwr.wav",
+            "speech": "receiver still connected"
+        },
+        {
+            "id": "aileron_trim.wav",
+            "speech": "aileron trim"
+        },
+        {
+            "id": "elevator_trim.wav",
+            "speech": "elevator trim"
+        },
+        {
+            "id": "throttle_trim.wav",
+            "speech": "throttle trim"
+        },
+        {
+            "id": "rudder_trim.wav",
+            "speech": "rudder trim"
+        },
+        {
+            "id": "main_page.wav",
+            "speech": "main page"
+        },
+        {
+            "id": "category_enabled.wav",
+            "speech": "category enabled"
+        },
+        {
+            "id": "category_disabled.wav",
+            "speech": "category disabled"
+        }
+    ],
+    "otherSounds": [
+        {
+            "id": "armed.wav",
+            "speech": "armed"
+        },
+        {
+            "id": "disarm.wav",
+            "speech": "disarmed"
+        },
+        {
+            "id": "thrcut.wav",
+            "speech": "throttle  cut"
+        },
+        {
+            "id": "thract.wav",
+            "speech": "throttle  active"
+        },
+        {
+            "id": "gearup.wav",
+            "speech": "gear!, up!"
+        },
+        {
+            "id": "geardn.wav",
+            "speech": "gear!, down!"
+        },
+        {
+            "id": "flapup.wav",
+            "speech": "flaps!, up!"
+        },
+        {
+            "id": "flapdn.wav",
+            "speech": "flaps!, down!"
+        },
+        {
+            "id": "splrup.wav",
+            "speech": "spoiler!, up!"
+        },
+        {
+            "id": "splrdn.wav",
+            "speech": "spoiler!, down!"
+        },
+        {
+            "id": "trnon.wav",
+            "speech": "trainer!, on!"
+        },
+        {
+            "id": "trnoff.wav",
+            "speech": "trainer!, off!"
+        },
+        {
+            "id": "engoff.wav",
+            "speech": "engine!, off!"
+        },
+        {
+            "id": "tohigh.wav",
+            "speech": "too. high!"
+        },
+        {
+            "id": "tolow.wav",
+            "speech": "too. low!"
+        },
+        {
+            "id": "lowbat.wav",
+            "speech": "low. battery!"
+        },
+        {
+            "id": "crowon.wav",
+            "speech": "crow!, on!"
+        },
+        {
+            "id": "crowof.wav",
+            "speech": "crow!, off!"
+        },
+        {
+            "id": "siglow.wav",
+            "speech": "rf. signal!, low!"
+        },
+        {
+            "id": "sigcrt.wav",
+            "speech": "rf. signal!, critical!"
+        },
+        {
+            "id": "lq.wav",
+            "speech": "LQ"
+        },
+        {
+            "id": "rfmode.wav",
+            "speech": "RF mode"
+        },
+        {
+            "id": "spdmod.wav",
+            "speech": "high. speed. mode!, active"
+        },
+        {
+            "id": "thmmod.wav",
+            "speech": "thermal. mode!, on"
+        },
+        {
+            "id": "nrmmod.wav",
+            "speech": "normal. mode!, on"
+        },
+        {
+            "id": "lnding.wav",
+            "speech": "landing. mode!, on"
+        },
+        {
+            "id": "acro.wav",
+            "speech": "acro. mode!, on"
+        },
+        {
+            "id": "fm-1.wav",
+            "speech": "flight mode one"
+        },
+        {
+            "id": "fm-2.wav",
+            "speech": "flight mode two"
+        },
+        {
+            "id": "fm-3.wav",
+            "speech": "flight mode three"
+        },
+        {
+            "id": "fm-4.wav",
+            "speech": "flight mode four"
+        },
+        {
+            "id": "fm-5.wav",
+            "speech": "flight mode five"
+        },
+        {
+            "id": "fm-6.wav",
+            "speech": "flight mode six"
+        },
+        {
+            "id": "fm-7.wav",
+            "speech": "flight mode seven"
+        },
+        {
+            "id": "fm-8.wav",
+            "speech": "flight mode eight"
+        },
+        {
+            "id": "vrion.wav",
+            "speech": "vario!, on"
+        },
+        {
+            "id": "vrioff.wav",
+            "speech": "vario!, off"
+        },
+        {
+            "id": "fm-pwr.wav",
+            "speech": "flight mode power"
+        },
+        {
+            "id": "fm-lnd.wav",
+            "speech": "flight mode land"
+        },
+        {
+            "id": "fm-flt.wav",
+            "speech": "flight mode float"
+        },
+        {
+            "id": "fm-spd.wav",
+            "speech": "flight mode speed"
+        },
+        {
+            "id": "fm-fst.wav",
+            "speech": "flight mode fast"
+        },
+        {
+            "id": "fm-nrm.wav",
+            "speech": "flight mode normal"
+        },
+        {
+            "id": "fm-crs.wav",
+            "speech": "flight mode cruise"
+        },
+        {
+            "id": "fm-acr.wav",
+            "speech": "flight mode acro"
+        },
+        {
+            "id": "fm-rce.wav",
+            "speech": "flight mode race"
+        },
+        {
+            "id": "fm-lch.wav",
+            "speech": "flight mode launch"
+        },
+        {
+            "id": "fm-png.wav",
+            "speech": "flight mode ping"
+        },
+        {
+            "id": "fm-thm.wav",
+            "speech": "flight mode thermal"
+        },
+        {
+            "id": "fm-thl.wav",
+            "speech": "flight mode thermal left"
+        },
+        {
+            "id": "fm-thr.wav",
+            "speech": "flight mode thermal right"
+        },
+        {
+            "id": "fm-stb.wav",
+            "speech": "flight mode stabilize"
+        },
+        {
+            "id": "fm-hor.wav",
+            "speech": "flight mode horizon"
+        },
+        {
+            "id": "fm-ang.wav",
+            "speech": "flight mode angle"
+        },
+        {
+            "id": "fm-id1.wav",
+            "speech": "flight mode idle up 1"
+        },
+        {
+            "id": "fm-id2.wav",
+            "speech": "flight mode idle up 2"
+        },
+        {
+            "id": "ratlow.wav",
+            "speech": "low rate"
+        },
+        {
+            "id": "ratmed.wav",
+            "speech": "medium rate"
+        },
+        {
+            "id": "rathi.wav",
+            "speech": "high rate"
+        }
+    ]
+}

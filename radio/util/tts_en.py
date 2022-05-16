@@ -2,6 +2,7 @@
 
 # English language sounds configuration
 
+import json
 from tts_common import filename
 
 
@@ -144,3 +145,16 @@ for i, (s, f) in enumerate([("armed", "armed"),
                             ("high rate", "rathi"),
                             ]):
     sounds.append((s, filename(f)))
+
+ss=[]
+for s in systemSounds:
+    ss.append({ "id":s[1],"speech":s[0]})
+
+os=[]
+for s in sounds:
+    os.append({ "id":s[1],"speech":s[0]})
+ 
+jsonContent=json.dumps({ "systemSounds":ss,"otherSounds":os},indent=4)
+f=open("sounds.json","w")
+f.write(jsonContent)
+f.close()

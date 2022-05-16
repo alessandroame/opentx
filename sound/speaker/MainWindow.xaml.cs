@@ -56,7 +56,8 @@ namespace OpenTXspeak
             lvSentences.ItemsSource = sentences;
             cbLanguages.ItemsSource = languages;
 
-            foreach (InstalledVoice voice in synth.GetInstalledVoices())
+            var voices = synth.GetInstalledVoices();
+            foreach (InstalledVoice voice in voices)
             {
                 cbVoices.Items.Add(voice.VoiceInfo.Name);
             }
@@ -85,11 +86,12 @@ namespace OpenTXspeak
             {
                 //system_strings = System.IO.File.ReadAllLines(@"SOUNDS\" + curLang.sName + @"\SYSTEM\system_sounds.txt");
                 //other_strings = System.IO.File.ReadAllLines(@"SOUNDS\" + curLang.sName + @"\other_sounds.txt");
+                var cd = Environment.CurrentDirectory;
                 var soundDef = JsonConvert.DeserializeObject<SoundsDefinition>(File.ReadAllText("sounds.json"));
                 system_strings = soundDef.SystemSounds
-                    .Select(s => $"{s.Values[1].Substring(0, s.Values[1].Length - 4)};{s.Values[0]};{s.Values[0]}").ToArray();
-                other_strings= soundDef.Sounds
-                    .Select(s => $"{s.Values[1].Substring(0, s.Values[1].Length - 4)};{s.Values[0]};{s.Values[0]}").ToArray();
+                    .Select(s => $"{s.Id.Replace(".wav","")};{s.Speech};{s.Speech}").ToArray();
+                other_strings= soundDef.OtherSounds
+                    .Select(s => $"{s.Id.Replace(".wav", "")};{s.Speech};{s.Speech}").ToArray();
 
             }
             catch (IOException)

@@ -10,3 +10,7 @@ cmake-build-*/
 /*.vscode
 radio/src/tests/googletest*
 radio/src/tests/gtest*.tar.gz
+
+sound/packages/
+
+radio/util/__pycache__/

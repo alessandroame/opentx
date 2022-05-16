@@ -8,10 +8,11 @@ namespace OpenTXspeaker
     public class SoundsDefinition
     {
         public Sound[] SystemSounds { get; set; }
-        public Sound[] Sounds { get; set; }
+        public Sound[] OtherSounds { get; set; }
     }
     public class Sound
     {
-        public string[] Values { get; set; }
+        public string Id { get; set; }
+        public string Speech { get; set; }
     }
 }
